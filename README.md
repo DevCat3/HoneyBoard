@@ -14,10 +14,13 @@ GSI ROMs. It installs as a normal app: **no root, no Magisk module, no system pa
 - Translation, search and the privacy-policy dialog
 - Size and transparency, including the *Show keyboard* button
 - **Tablet mode switch** in the keyboard settings (details below)
+- Save screenshots to clipboard
+- Dark clipboard
+- Fast paste after copying any text
 
 ## Download
 
-Get the latest APK from the [Releases]() page.
+Get the latest APK from the [Releases](https://github.com/DevCat3/HoneyBoard/releases/) page.
 
 ## Install
 
@@ -46,6 +49,7 @@ Tablet mode shows extra keys such as Ctrl + arrows.
 
 - Galaxy Tab A7 (SM-T509), DerpFest 13 GSI (Android 13)
 - Phones running Android 16 and Android 17 (reported by testers)
+- HyperOS 3
 
 ## Reporting a bug
 
